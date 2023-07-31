@@ -12,8 +12,10 @@ In the image presented below, you can compare the distribution of different emot
 <br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
 <br/> <br/>
-In the image presented below, you can compare the distribution of different emotions predicted by the model for each specific emotion and visualize the comparison using bar graphs.
 
+
+
+The picture below shows the distribution of labels for each emotion for the real test labels and the labels predicted by the model.
 ![Label_Comparision](content/images/Label_Comparision.png) --
 
 <br/>
@@ -64,15 +66,18 @@ This notebook file is a complete wrapout  of practical exposure, understanding a
 The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
 <br/><br/>
 
-
+In the image provided below, you can see the distribution of different emotions predicted by the model for a random image
+![prediction_test_labels](content/images/prediction_test_labels.png)
+ <br/>
+ <br/>
+And below are some images and model predictions
 ![gol_p](content/images/gol_p.jpg) --
 
 ![gol2_p.jpg](content/images/gol2_p.jpg)
 
 
-![multistar_emotion](https://user-images.githubusercontent.com/39909903/86573388-33180d00-bf29-11ea-844a-09c8cea77467.PNG)
-![mb_emotion](https://user-images.githubusercontent.com/39909903/86573436-41febf80-bf29-11ea-9f47-76a62f6a6a8e.PNG)
-![khans_emotions](https://user-images.githubusercontent.com/39909903/86573368-2c899580-bf29-11ea-8588-3600004d7b77.PNG)
+
+![friends](content/images/friends.jpg)
 
   <br/>
   <br/>
