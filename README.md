@@ -14,8 +14,7 @@ Here I trained the convolution neural network with kaggle facial emotion dataset
 <br/> <br/>
 In the image presented below, you can compare the distribution of different emotions predicted by the model for each specific emotion and visualize the comparison using bar graphs.
 
-![Label Comparision.png](content/images/Label Comparision.png)
-
+![Label Comparision.png](content/images/Label Comparision.png) --
 
 <br/>
 <br/>
