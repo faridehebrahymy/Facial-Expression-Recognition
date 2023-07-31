@@ -8,7 +8,7 @@ This project is the first step in that system.
 <br/>
 <br/>
 
-![gol_p]([https://user-images.githubusercontent.com/39909903/86574626-f8af6f80-bf2a-11ea-93f2-c58bd08bb871.PNG](https://github.com/faridehebrahymy/Facial-Expression-Recognition/blob/main/content/images/gol_p.jpg)) --
+![gol_p](content/images/gol_p.jpg) --
 
 ![ntr emotion](https://user-images.githubusercontent.com/39909903/86574777-2f858580-bf2b-11ea-8aee-597f89f2b6b9.PNG)
 <br/> <br/>
