@@ -10,7 +10,7 @@ This project is the first step in that system.
 
 ![gol_p](content/images/gol_p.jpg) --
 
-![ntr emotion](https://user-images.githubusercontent.com/39909903/86574777-2f858580-bf2b-11ea-8aee-597f89f2b6b9.PNG)
+![gol2_p.jpg](content/images/gol2_p.jpg)
 <br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
 <br/>
