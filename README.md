@@ -7,12 +7,14 @@ This is completely a deep learning project entirely based on neural networks and
 This project is the first step in that system.
 <br/>
 <br/>
+In the image presented below, you can compare the distribution of different emotions predicted by the model for each specific emotion and visualize the comparison using bar graphs.
 
-![gol_p](content/images/gol_p.jpg) --
-
-![gol2_p.jpg](content/images/gol2_p.jpg)
 <br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
+<br/>
+![gol2_p.jpg](content/images/Label Comparision.png)
+
+
 <br/>
 <br/>
 
@@ -62,7 +64,9 @@ The following is the results of the images. I also add the number of persons in 
 <br/><br/>
 
 
+![gol_p](content/images/gol_p.jpg) --
 
+![gol2_p.jpg](content/images/gol2_p.jpg)
 
 
 ![multistar_emotion](https://user-images.githubusercontent.com/39909903/86573388-33180d00-bf29-11ea-844a-09c8cea77467.PNG)
