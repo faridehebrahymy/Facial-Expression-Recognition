@@ -11,8 +11,9 @@ In the image presented below, you can compare the distribution of different emot
 
 <br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
-<br/>
-![gol2_p.jpg](content/images/Label Comparision.png)
+
+
+![Label Comparision.png](content/images/Label Comparision.png)
 
 
 <br/>
