@@ -36,11 +36,10 @@ In this project I used kaggle dataset i.e  <br/>
   <br/>
     we can use a kaggle API to access and download that dataset.
 
-## Usage:
+## Instructions:
 <br/>
 <br/>
-In the notebook, I  explain all the concepts, pipeline , terminology , functions which is involved in the program in a clear and concised manner. 
-Even I also mention some of my insights , intuitions and observations in the project.<br/>
+In this notebook, I have tried to separate the parts from each other and explain what is happening for each part by title.<br/>
 I document almost everything  that is used in the  program.<br/>
 This notebook file is a complete wrapout  of practical exposure, understanding and theory.
 <br/>
@@ -54,7 +53,8 @@ This notebook file is a complete wrapout  of practical exposure, understanding a
 <br/>
 <br/>
 -------
-<br/><br/>
+<br/>
+<br/>
 The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
 <br/><br/>
 
