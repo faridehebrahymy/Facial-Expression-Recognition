@@ -63,6 +63,7 @@ In the image provided below, you can see the distribution of different emotions 
  <br/>
  <br/>
 And below are some images and model predictions
+ <br/> <br/>
 ![gol_p](content/images/gol_p.jpg) --
 
 ![gol2_p.jpg](content/images/gol2_p.jpg)
@@ -79,11 +80,10 @@ And below are some images and model predictions
   <br/>
   
   ## Contributing:
-  all pull requests are welcome. I felt glad if you give me any suggestions. (^_^)
- [![GitHub issues](https://img.shields.io/github/issues/faridehebrahymy/Facial-Expression-Recognition%2Fissues
+ all pull requests are welcome. I felt glad if you give me any suggestions. :))) [![GitHub issues](https://img.shields.io/github/issues/faridehebrahymy/Facial-Expression-Recognition%2Fissues
 )](https://github.com/faridehebrahymy/Facial-Expression-Recognition/issues)
   <br/>
-    all pull requests are welcome. I felt glad if you give me any suggestions. :)))
+   
 
   <br/>
   ## Licence & copyright: 
