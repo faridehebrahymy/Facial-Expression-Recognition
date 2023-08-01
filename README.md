@@ -96,13 +96,6 @@ Feel free to download, clone , fork the project.
 Licensed under the [MIT License](LICENSE)
   [![GitHub license](https://img.shields.io/github/license/faridehebrahymy/Facial-Expression-Recognition)](https://github.com/faridehebrahymy/Facial-Expression-Recognition/blob/main/LICENSE)
 
-  
-
-  
-  --------
-
-  <br/>
-  <br/>
 
   
   --------
