@@ -41,7 +41,7 @@ In this project I used kaggle dataset i.e  <br/>
 <br/>
 In this notebook, I have tried to separate the parts from each other and explain what is happening for each part by title.<br/>
 I document almost everything  that is used in the  program.<br/>
-This notebook file is a complete wrapout  of practical exposure, understanding and theory.
+This notebook file is a complete wrapout  of practical exposure.
 <br/>
 <br/>
 
