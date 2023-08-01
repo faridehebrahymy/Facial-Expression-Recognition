@@ -1,11 +1,11 @@
 # Facial Emotion Recognition using CNN :
 
-This is completely a deep learning project entirely based on neural networks and I think Facial emotion recognition(FER) project is one of the classical projects in deep learning.<br/>
-<br/>We all know facial emotions play a vital role in our day-to-day life. so, we need a system which is capable of recognising our  facial emotions and able to act accordingly.
+This is a completely deep learning project that is completely based on neural networks, and it can be said that the Facial Emotion Recognition (FER) project is one of the classic projects in deep learning.
+<br/>
+<br/>
+During this project, we implement a human emotion recognition system from facial images using Convolutional Neural Networks (CNN). The main goal of this project is to identify 7 categories of different emotions, including anger, disgust, fear, happiness, sadness, surprise, and neutral..
 <br/>
 <br/> 
-This project is the first step in that system.
-<br/>
 <br/>
 In the image presented below, you can compare the distribution of different emotions predicted by the model for each specific emotion and visualize the comparison using bar graphs.
 
@@ -42,11 +42,6 @@ In this project I used kaggle dataset i.e  <br/>
     we can use a kaggle API to access and download that dataset.
 
 ## Usage:
-This project is in notebook format. I wrote the program in google colabs.
-<br/><br/>
-**Google colabs** is a cloud based notebook IDE which offers a free GPU and allows us to write python code snippets with ease.
-It is almost similar to jupyter notebook but slight variations.
-Some of the code snippets in the program is specific to google colabs. Dont get confuse.
 <br/>
 <br/>
 In the notebook, I  explain all the concepts, pipeline , terminology , functions which is involved in the program in a clear and concised manner. 
@@ -59,7 +54,7 @@ This notebook file is a complete wrapout  of practical exposure, understanding a
   * facial_Emotion_Recognition_using_cnn.ipnb -->  main file
   * images folder --> consists of images to be tested and also contains screenshots of results of that images.
   * model.h5 --> saved weights of the model which is trained with 200 epochs
-  * model.json --> saved architecture of the neural network.
+  * model_architecture.json --> saved architecture of the neural network.
   * haarcascade classifiers --> higly pretrained classifiers to detect faces.
 <br/>
 <br/>
