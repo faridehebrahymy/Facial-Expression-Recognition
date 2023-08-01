@@ -7,7 +7,7 @@ During this project, we implement a human emotion recognition system from facial
 <br/>
 <br/> 
 <br/>
-In the image presented below, you can compare the distribution of different emotions predicted by the model for each specific emotion and visualize the comparison using bar graphs.
+
 
 <br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
@@ -16,10 +16,11 @@ Here I trained the convolution neural network with kaggle facial emotion dataset
 
 
 The picture below shows the distribution of labels for each emotion for the real test labels and the labels predicted by the model.
+<br/>
+<br/>
 ![Label_Comparision](content/images/Label_Comparision.png) --
+<br/>
 
-<br/>
-<br/>
 
 -------
 
