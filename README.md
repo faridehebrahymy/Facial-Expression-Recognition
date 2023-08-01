@@ -99,8 +99,8 @@ Licensed under the [MIT License](LICENSE)
 
   --------
 ## Contact:
-<a href="https://www.linkedin.com/in/farideh-ebrahimi-275195197/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/faridehebrahymy"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  
-<a href="mailto:‫farideh.ebrahymy@gmail.com‬"><img src="https://github.com/faridehebrahymy/faridehebrahymy/blob/main/logos/Gmail_Logo_512px.png" width="40" /> </a>
+<a href="https://www.linkedin.com/in/farideh-ebrahimi-275195197/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/faridehebrahymy"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" 
+/> </a> <a href="mailto:‫farideh.ebrahymy@gmail.com‬"><img src="https://github.com/faridehebrahymy/faridehebrahymy/blob/main/logos/Gmail_Logo_512px.png" width="40" /> </a>
 
 
 
