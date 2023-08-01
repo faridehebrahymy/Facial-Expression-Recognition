@@ -90,8 +90,11 @@ And below are some images and model predictions
   <br/>
   Copyright (c) 2023 farideh ebrahimi , _Computer Science<br/>
   Licensed under the [MIT License](LICENSE)_
-  [![GitHub license](https://img.shields.io/github/license/faridehebrahymy/Facial-Expression-Recognition
-)](https://github.com/faridehebrahymy/Facial-Expression-Recognition/blob/main/LICENSE)
+  [![GitHub license](https://img.shields.io/github/license/faridehebrahymy/Facial-Expression-Recognition)](https://github.com/faridehebrahymy/Facial-Expression-Recognition/blob/main/LICENSE)
+
+
+
+
   
   --------
 
