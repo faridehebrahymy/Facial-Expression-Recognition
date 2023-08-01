@@ -5,11 +5,6 @@ This is a completely deep learning project that is completely based on neural ne
 <br/>
 During this project, we implement a human emotion recognition system from facial images using Convolutional Neural Networks (CNN). The main goal of this project is to identify 7 categories of different emotions, including anger, disgust, fear, happiness, sadness, surprise, and neutral..
 <br/>
-<br/> 
-<br/>
-
-
-<br/> <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
 <br/> <br/>
 
