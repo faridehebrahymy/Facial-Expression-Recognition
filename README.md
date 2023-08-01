@@ -78,11 +78,20 @@ And below are some images and model predictions
   <br/>
   <br/>
   
-
   ## Contributing:
-  _Feel free to download, clone , fork the project._  
+  all pull requests are welcome. I felt glad if you give me any suggestions. (^_^)
+ [![GitHub issues](https://img.shields.io/github/issues/faridehebrahymy/Facial-Expression-Recognition%2Fissues
+)](https://github.com/faridehebrahymy/Facial-Expression-Recognition/issues)
+  <br/>
+    all pull requests are welcome. I felt glad if you give me any suggestions. :)))
 
-  all pull requests are welcome. I felt glad if you give me any suggestions. :)))
+  <br/>
+  ## Licence & copyright: 
+  © Prudhvi GNV, _Computer Science<br/>
+  Licensed under the [MIT License](LICENSE)_
+  [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
+  
+  --------
 
   <br/>
   <br/>
