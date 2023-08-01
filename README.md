@@ -52,7 +52,7 @@ This notebook file is a complete wrapout  of practical exposure.
   * haarcascade classifiers --> higly pretrained classifiers to detect faces.
 <br/>
 <br/>
--------
+ -------
 
 <br/>
 <br/>
@@ -92,11 +92,6 @@ And below are some images and model predictions
 Licensed under the [MIT License](LICENSE)
   [![GitHub license](https://img.shields.io/github/license/faridehebrahymy/Facial-Expression-Recognition)](https://github.com/faridehebrahymy/Facial-Expression-Recognition/blob/main/LICENSE)
 
-
-## Licence & copyright: 
-  © Prudhvi GNV, _Computer Science<br/>
-  Licensed under the [MIT License](LICENSE)_
-  [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
   
 
   
