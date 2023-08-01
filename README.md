@@ -50,9 +50,8 @@ This notebook file is a complete wrapout  of practical exposure.
   * model.h5 --> saved weights of the model which is trained with 200 epochs
   * model_architecture.json --> saved architecture of the neural network.
   * haarcascade classifiers --> higly pretrained classifiers to detect faces.
-<br/>
-<br/>
- -------
+
+  --------
 
 <br/>
 <br/>
@@ -84,7 +83,12 @@ And below are some images and model predictions
  all pull requests are welcome. I felt glad if you give me any suggestions. :))) [![GitHub issues](https://img.shields.io/github/issues/faridehebrahymy/Facial-Expression-Recognition%2Fissues
 )](https://github.com/faridehebrahymy/Facial-Expression-Recognition/issues)
   <br/>
-   
+    <br/>
+
+Feel free to download, clone , fork the project.
+
+  <br/>
+
 
 
 ## Licence & copyright: 
