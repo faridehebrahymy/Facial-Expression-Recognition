@@ -52,7 +52,7 @@ This notebook file is a complete wrapout  of practical exposure.
   * haarcascade classifiers --> higly pretrained classifiers to detect faces.
 
   --------
-
+## Result:
 <br/>
 <br/>
 The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
