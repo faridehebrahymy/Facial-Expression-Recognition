@@ -53,6 +53,7 @@ This notebook file is a complete wrapout  of practical exposure.
 <br/>
 <br/>
 -------
+
 <br/>
 <br/>
 The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
@@ -88,12 +89,16 @@ And below are some images and model predictions
 
   ## Licence & copyright:  
   <br/>
-  Copyright (c) 2023 farideh ebrahimi , _Computer Science<br/>
+  Copyright (c) 2023 farideh ebrahimi , _Computer Science <br/>
   Licensed under the [MIT License](LICENSE)_
   [![GitHub license](https://img.shields.io/github/license/faridehebrahymy/Facial-Expression-Recognition)](https://github.com/faridehebrahymy/Facial-Expression-Recognition/blob/main/LICENSE)
 
 
-
+## Licence & copyright: 
+  © Prudhvi GNV, _Computer Science<br/>
+  Licensed under the [MIT License](LICENSE)_
+  [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
+  
 
   
   --------
