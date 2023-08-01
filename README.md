@@ -3,7 +3,7 @@
 This is a completely deep learning project that is completely based on neural networks, and it can be said that the Facial Emotion Recognition (FER) project is one of the classic projects in deep learning.
 <br/>
 <br/>
-During this project, we implement a human emotion recognition system from facial images using Convolutional Neural Networks (CNN). The main goal of this project is to identify 7 categories of different emotions, including anger, disgust, fear, happiness, sadness, surprise, and neutral..
+During this project, we implement a human emotion recognition system from facial images using Convolutional Neural Networks (CNN). The main goal of this project is to identify 7 categories of different emotions, including anger, disgust, fear, happiness, sadness, surprise, and neutral.
 <br/>
 Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
 <br/> <br/>
@@ -20,8 +20,7 @@ The picture below shows the distribution of labels for each emotion for the real
 -------
 
 
------
-_Feel free to download, clone , fork the project._  
+
 
 ## Installation of python libraries:
   * keras with tensorflow as backend
@@ -54,6 +53,7 @@ This notebook file is a complete wrapout  of practical exposure, understanding a
   * haarcascade classifiers --> higly pretrained classifiers to detect faces.
 <br/>
 <br/>
+-----
 The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
 <br/><br/>
 
@@ -79,6 +79,8 @@ And below are some images and model predictions
   
 
   ## Contributing:
+  _Feel free to download, clone , fork the project._  
+
   all pull requests are welcome. I felt glad if you give me any suggestions. :)))
 
   <br/>
